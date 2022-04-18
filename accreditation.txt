@@ -1,0 +1,3 @@
+tracking_objects.py was written by David Booth
+
+Tracking.ino, MovingObjectsFeedbackDeficit.ino, and image_feedback_tracking.py were written by Musab Almajnouni
